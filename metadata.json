@@ -1,0 +1,5 @@
+{
+  "name": "Y image gen",
+  "description": "Upload an image and use text prompts to perform Photoshop-like edits with the power of the Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": []
+}
